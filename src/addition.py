@@ -1,6 +1,6 @@
 # app.py
 # this is new test commit
-# sum of two nubers
+# latest versions add to workflow
 def add(a, b):
     return a + b
 
