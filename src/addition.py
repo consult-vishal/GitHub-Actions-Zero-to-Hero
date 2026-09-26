@@ -1,5 +1,6 @@
 # app.py
 # this is new test commit
+# sum of two nubers
 def add(a, b):
     return a + b
 
